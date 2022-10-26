@@ -8,3 +8,10 @@
 - [x] Documentando API com `SWAGGER` .<br>
 - [x] Habilitado o tratamento de exceções `Exception Handlers`.<br>
 - [x] Interação da API via `Postman`.
+
+---
+<h1 align="center">
+   <img alt="Readme" title="Readme" src="./image/webAPI.gif">
+</h1>
+
+---
