@@ -11,7 +11,7 @@
 
 ---
 <h1 align="center">
-   <img alt="Readme" title="Readme" src="./image/webAPI.gif">
+   <img alt="Readme" title="Readme" src="./src/main/java/dio/web/api/image/webAPI.gif">
 </h1>
 
 ---
